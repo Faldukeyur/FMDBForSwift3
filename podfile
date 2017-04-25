@@ -1,0 +1,5 @@
+
+target’FMDBForSwift3’
+
+pod 'IQKeyboardManager'
+pod 'FMDB'
